@@ -32,3 +32,15 @@ console.log(negVal)
 // console.log(str1+str2)
 
 console.log(2+2+"1"+2+2);
+
+// ***********Arrays
+const heros = ["kaushik","adima","sriyansh"];
+let myObj = {
+    name: "Kaushik",
+    age: 21
+}
+const myFunc = function(){
+    console.log("Hello world!")
+}
+
+console.log("------"+typeof(heros));
